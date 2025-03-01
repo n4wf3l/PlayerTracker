@@ -124,6 +124,14 @@ Users sign up and log into their **secure dashboard**.
 - Add/edit **players & coaching staff** 👥  
 - Customize **club details** 📋  
 
+![image](https://github.com/user-attachments/assets/beb9aa76-9eef-4d44-8fc6-6250ef3c5a9e)
+![image](https://github.com/user-attachments/assets/ca300b94-85bf-4b5e-bcf0-2be19262cef2)
+![image](https://github.com/user-attachments/assets/40d60fc4-128f-45a0-98d5-a44a1fbfadf5)
+![image](https://github.com/user-attachments/assets/20201a0b-2cac-4b8f-95f8-201f690b81eb)
+![image](https://github.com/user-attachments/assets/bd8997f2-32c1-4681-a121-761bc4f1c089)
+![image](https://github.com/user-attachments/assets/b1f43889-95c8-4ceb-8a05-2b2e8bf43546)
+
+
 ---
 
 ## 🌍 **Roadmap & Future Developments**
@@ -162,13 +170,15 @@ We are open to:
 - **Mehdi Merkachi** – Fullstack & Performance Optimization
 - **Soufiane Hamoumi** – Frontend & UX/UI
 
+The analysis phase of **PlayerTracker** began in **October 2024**. The contributors worked on this project across **five different sprints** between **February and March 2025**, following the **Scrum methodology** combined with **Kanban** for task management and workflow optimization.
+
 A huge thank you to everyone contributing to PlayerTracker! 🚀  
 
 ---
 
 ## 📞 **Contact & Support**
 📧 Email: **info@nainnovations.be**  
-🔗 GitHub:  
+🔗 GitHub:  [n4wf3l](https://github.com/n4wf3l)  
 - **Frontend**: [PlayerTracker-Frontend](https://github.com/PlayerTracker-EHB/PlayerTracker-Frontend)  
 - **Backend**: [PlayerTracker-Backend](https://github.com/PlayerTracker-EHB/PlayerTracker-Backend)  
 - **AI Processing**: [AI-tracker](https://github.com/PlayerTracker-EHB/AI-tracker)  

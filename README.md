@@ -59,6 +59,10 @@ PlayerTracker leverages a **modern full-stack architecture**, combining **a powe
 
 ## 📂 **Installation & Deployment**  
 
+- **Frontend**: [PlayerTracker-Frontend](https://github.com/PlayerTracker-EHB/PlayerTracker-Frontend)  
+- **Backend**: [PlayerTracker-Backend](https://github.com/PlayerTracker-EHB/PlayerTracker-Backend)  
+- **AI Processing**: [AI-tracker](https://github.com/PlayerTracker-EHB/AI-tracker)
+  
 ### 1️⃣ **Prerequisites**
 Ensure you have the following installed:  
 - **Node.js (v16+)** and **npm** (or yarn)  
@@ -72,33 +76,6 @@ git clone https://github.com/PlayerTracker-EHB/PlayerTracker-Frontend.git
 git clone https://github.com/PlayerTracker-EHB/PlayerTracker-Backend.git
 git clone https://github.com/PlayerTracker-EHB/AI-tracker.git
 ```
-
-### 3️⃣ **Backend Setup**
-```bash
-cd PlayerTracker-Backend
-npm install
-node ace migration:fresh
-node ace db:seed
-node ace serve
-```
-
-### 4️⃣ **Frontend Setup**
-```bash
-cd ../PlayerTracker-Frontend
-npm install
-npm run dev
-```
-
-### 5️⃣ **AI Processing Setup**
-```bash
-cd ../AI-tracker
-pip install -r requirements.txt
-python detect.py --source sample.mp4
-```
-
-### 6️⃣ **Accessing the Platform**
-- **Backend API**: `http://localhost:3333`  
-- **Frontend UI**: `http://localhost:5173`  
 
 ---
 
@@ -178,10 +155,7 @@ A huge thank you to everyone contributing to PlayerTracker! 🚀
 
 ## 📞 **Contact & Support**
 📧 Email: **info@nainnovations.be**  
-🔗 GitHub:  [n4wf3l](https://github.com/n4wf3l)  
-- **Frontend**: [PlayerTracker-Frontend](https://github.com/PlayerTracker-EHB/PlayerTracker-Frontend)  
-- **Backend**: [PlayerTracker-Backend](https://github.com/PlayerTracker-EHB/PlayerTracker-Backend)  
-- **AI Processing**: [AI-tracker](https://github.com/PlayerTracker-EHB/AI-tracker)  
+🔗 GitHub:  [n4wf3l](https://github.com/n4wf3l)
 
 ---
 
